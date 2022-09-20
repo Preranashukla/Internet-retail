@@ -27,11 +27,9 @@
   
   ### Github
   If you'd like to see my other work please visit my github.
-  [Github](https://github.com/Preranashukla/Notetaker.git)
+  [Github](https://github.com/Preranashukla/Internet-retail.git)
   
   ## Video Demo
-  [Video Demo](https://drive.google.com/file/d/10GMan-JhWhObnCka0FqCMZYmizr6l0RD/view)
+  [Video Demo](https://drive.google.com/file/d/1T7C8_PIxPigybBcczmqcuu7OdU222X5T/view)
   
-  ## Live Application
-  [Live Application](https://polar-hollows-33539.herokuapp.com/)
    

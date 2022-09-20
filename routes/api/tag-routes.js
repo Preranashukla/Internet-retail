@@ -34,19 +34,19 @@ router.get('/:id', (req, res) => {
       where: {id: req.params.id},
       include: [
         {
-        model: Category,
+        model: Product,
         attributes: ['product_name']
         }
       ]
     })
       .then(tagData => {
-        if (!tagDate) {
+        if (!tagData) {
             res.status(404).json({
                 message: 'No tag found with this id!'
             });
             return;
         }
-        res.status(200).json(productData);
+        res.status(200).json(tagData);
     }).catch(err => {
       console.log(err);
       res.status(500).json(err);
